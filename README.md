@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/asm19trkz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
     <img src="https://tryhackme-badges.s3.amazonaws.com/Jer1cho.png" alt="TryHackMe">
-![tryhackme stats](https://raw.githubusercontent.com/<jer1cho23>/<jer1cho23>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/jer1cho23/jer1cho23/master/assets/thm_propic.png)
   </a>
 </div>
 
